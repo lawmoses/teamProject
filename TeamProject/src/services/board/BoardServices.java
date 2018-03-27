@@ -5,4 +5,6 @@ public class BoardServices {
 	String string="String";
 	
 	Integer i = 10000;
+	
+	long number = 100;
 }
