@@ -9,4 +9,6 @@ public class BoardServices {
 	long number = 100;
 	
 	int a = 1004;
+	int b = 1005;
+	
 }
