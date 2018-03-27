@@ -7,4 +7,6 @@ public class BoardServices {
 	Integer i = 10000;
 	
 	long number = 100;
+	
+	int a = 1004;
 }
